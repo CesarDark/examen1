@@ -1,0 +1,22 @@
+h1,h5, h4 {
+  text-align: center;
+}
+.centrar{
+  max-width: 80%;
+  margin: 0 auto;
+  padding: 0 5%; /*Ancho*/
+}
+
+.gallery img{
+  display:block;
+  margin:auto;
+  width:60%;
+  height:40%;
+  border-radius: 30%;
+}
+
+footer{
+  font-size: 80%;
+  text-align: center;
+  padding-top: 50px;
+}
